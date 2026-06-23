@@ -3,8 +3,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kumarv2222&label=Profile%20Views&color=cdff00&style=flat" alt="profile views" />
+  <a href="http://kumar-vk-portfolio.surge.sh/"><img src="https://img.shields.io/badge/Portfolio-Visit-cdff00?style=flat&logo=googlechrome&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/Kumar-vk"><img src="https://img.shields.io/badge/LinkedIn-Kumar--vk-black?style=flat&logo=linkedin&logoColor=cdff00" /></a>
   <a href="mailto:vkk24554@gmail.com"><img src="https://img.shields.io/badge/Email-vkk24554%40gmail.com-black?style=flat&logo=gmail&logoColor=cdff00" /></a>
+</p>
+
+<p align="center">
+  🌐 &nbsp;<b><a href="http://kumar-vk-portfolio.surge.sh/">kumar-vk-portfolio.surge.sh</a></b>
 </p>
 
 ---
@@ -105,8 +110,13 @@
 ### 📫 Let's Connect
 
 <p align="center">
+  <a href="http://kumar-vk-portfolio.surge.sh/"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-cdff00?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/Kumar-vk"><img src="https://img.shields.io/badge/LinkedIn-Connect-cdff00?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
   <a href="mailto:vkk24554@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-cdff00?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
 
 <p align="center"><i>Open to frontend, full-stack Python, and AI-driven project opportunities 🚀</i></p>
+
+<p align="center">
+  <sub>© 2025 Kumar &nbsp;|&nbsp; Built with precision, secured with intent</sub>
+</p>
