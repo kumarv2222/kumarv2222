@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kumarv2222&label=Profile%20Views&color=cdff00&style=flat" alt="profile views" />
   <a href="http://kumar-vk-portfolio.surge.sh/"><img src="https://img.shields.io/badge/Portfolio-Visit-cdff00?style=flat&logo=googlechrome&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/Kumar-vk"><img src="https://img.shields.io/badge/LinkedIn-Kumar--vk-black?style=flat&logo=linkedin&logoColor=cdff00" /></a>
+  <a href="https://www.linkedin.com/in/kumar-vk1/"><img src="https://img.shields.io/badge/LinkedIn-Kumar--vk-black?style=flat&logo=linkedin&logoColor=cdff00" /></a>
   <a href="mailto:vkk24554@gmail.com"><img src="https://img.shields.io/badge/Email-vkk24554%40gmail.com-black?style=flat&logo=gmail&logoColor=cdff00" /></a>
 </p>
 
